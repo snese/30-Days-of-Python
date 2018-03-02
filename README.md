@@ -1,5 +1,5 @@
-# 30-Days-of-Python
-Logging 30 days learn the Python Programming language
+# Python Learning Note
+Logging learn the Python Programming language
 
 # Reference
 - https://github.com/codingforentrepreneurs/30-Days-of-Python
