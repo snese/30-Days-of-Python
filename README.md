@@ -13,3 +13,4 @@ Logging learn the Python Programming language
 - [目标检测之YOLO，SSD](http://lanbing510.info/2017/08/28/YOLO-SSD.html)
 - [干货|详解CNN五大经典模型:Lenet，Alexnet，Googlenet，VGG，DRL](http://www.sohu.com/a/134347664_642762)
 - [Hung-yi Lee - NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
+- [Kaggle新手入門之路](https://tw.saowen.com/a/282ea5dd8fb758e056a9cf335234c70cffb352eb7a67d0806572ee241b76593d)
